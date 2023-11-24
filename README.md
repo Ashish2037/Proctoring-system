@@ -15,8 +15,6 @@ Facial landmarks are detected using MediaPipe Face Mesh. The system calculates h
 # Mouth Openness Detection
 The system monitors mouth openness to detect speech activity. If the user keeps their mouth closed for a specified time threshold, the system prompts them to speak.
 
-# Speech Recognition
-Automatic Speech Recognition (ASR) is performed using the Whisper-tiny model from OpenAI. The system transcribes speech and provides feedback based on the detected content.
 
 # User Interaction
 The user is informed about their head pose, mouth openness status, and warnings related to the presence of multiple people or a mobile phone. The system prompts the user to speak when appropriate.
