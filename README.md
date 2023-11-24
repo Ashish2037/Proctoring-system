@@ -1,5 +1,5 @@
 # Computer Vision and Speech Interaction
-This project combines computer vision and speech interaction to monitor a user's behavior through a webcam feed. The system detects the presence of people and mobile phones, tracks head pose, and monitors mouth openness to identify speech activity.
+This project use computer vision to monitor a user's behavior through a webcam feed. The system detects the presence of people and mobile phones, tracks head pose, and monitors mouth openness to identify speech activity.
 
 # Requirements
 Make sure to install the required Python packages before running the code:
